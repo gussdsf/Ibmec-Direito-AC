@@ -1,0 +1,63 @@
+MPF investiga se algoritmo do INSS nega aposentadorias sem análise de mérito
+O algoritmo utilizado para a diminuir filas e agilizar o processo, no geral, gerou dúvidas sobre erros que acarretaram em aposentadorias negadas. Com isso, muitos beneficiários tiveram seus requerimentos negados, o que chamou a atenção da MPF, porém o INSS nega que tenham sidos cometidos erros por parte do algoritmo. 
+
+Análise de crédito pode usar algoritmos?
+A análise de crédito pode sim utilizar algoritmos e além disso, são recomendados o funcionamento destes nos dias atuais. A utilização de algoritmos de “Deep Learning” é totalmente aconselhável já que esses algoritmos garantem uma maior segurança contra fraudes, maior rapidez na análise e outros benefícios que são garantidos pelos algoritmos. 
+Desvendando o poder do Deep Learning na análise de crédito - Credits Brasil
+
+Negativa de crédito precisa ser justificada?
+A negativa ou recusa de crédito precisa sim ser justificada, ou seja, as empresas e estabelecimentos são obrigados a evidenciar de forma oral a escrita o motivo pela recusa. Isso ocorre, pois sem essa justificativa o consumidor poderia ser constrangido de certa forma, já que ele possui de forma privativa, a gestão de sua capital e não pode ser negado em relação a isso.
+Negativa de Crédito sem Justificativa - Notícias | Jusbrasil
+
+Rede Neural Artificial
+Ela é um modelo computacional que tem como principal inspiração o sistema nervoso. Visa auxiliar as máquinas no aprendizado de padrões humanos, ou seja, ela é a capacitadora de máquinas a replicar comportamentos dos seres humanos e assim, facilitando em seu aprendizado. Além disso, essas redes necessitam de tempo já que vão se aprimorando a partir da experiência. 
+
+
+A relação entre a LGPD e os Data Centers no Brasil.
+A LGPD significa “Lei Geral de Proteção de Dados” e ela objetiva a segurança de dados dos usuários que foram dispostos a empresas, ou seja, serve para que os dados possam ser guardados e não terem sua privacidade invadida ou exposta pelas empresas. Essa lei fiscaliza de forma regular a utilização dos dados e tem o poder de cancelar o compartilhamento caso ache necessário. A LGPD é aplicada em todo o território nacional e também poderá ser aplicada fora dela, tendo em vista que seu caráter é de territorialidade e extraterritorialidade. As regras para a aplicação da lei de acordo com o Art. 3º são: operação de tratamento sendo realizada em território nacional; a atividade de tratamento tenha por objetivo a oferta ou o fornecimento de bens ou serviços ou o tratamento de dados de indivíduos localizados no território nacional; os dados pessoais objeto do tratamento tenham sido coletados no território nacional. Assim, seu alcance é amplo e causa uma maior segurança dos dados.
+Os Data Centers são as instalações físicas que servem para hospedar aplicativos e dados essenciais dos usuários. Atualmente, existem Data Centers virtuais, tendo sua conexão ligada pela nuvem, e os híbridos que abrangem tanto o espaço físico quanto o espaço virtual. 
+Com o objetivo da LGPD de garantir o máximo de segurança aos usuários, é necessário que empresas detentoras de Data Centers tenham uma colaboração ccom a lei. Isso é essencial, pois para que evitem invasões, virtuais, as empresas deverão seguir uma adequação da LGPD nos quesitos de segurança e assim, criando uma padronização na garantia dos dados de terceiros.
+
+-Algoritmo
+Procedimento de etapas necessárias para a resolução de um problema, ou seja, entende-se como uma sequência de ações que tem como principal objetivo realizar tarefas
+-Inteligência Artificial
+É uma tecnologia que tem omo objetivo realizar tarefas, de forma automatizada, pelos seres humanos. Para realizar essas tarefas, a IA analisa o comportamento humao e assim, aplica no seu modo. 
+-Nuvem
+Nuvem é uma rede dde servidores remotos que operam como uma coisa só. Ela serve principalmente para armazenar arquivos e dados.
+-Jurimetria
+Jurimetia é uma ciência que estuda a aplicação do Direito e da jurisprudência.
+-Servidor 
+O servidor é definido como um grande computador que possui com grande capacidade d armazenamento e é o respon´savel por conectar os computadores a uma rede. 
+
+PYTHON
+É uma linguagem muito utilizada no desenvolvimento de softwares já que pode ser executada de maneira rápida e fácil
+exemplo:
+	print("olá")
+
+JAVA
+Linguagem que mais se aproxima com a linguagem humana. Além disso, pode ser utilizada como uma plataforma. 
+exemplo:
+	public static void main(String[] args) {
+        System.out.println("oi, tudo bem?");
+
+JAVASCRIPT
+Linguagem muito utilizada na criação de páginas de internet e tem como objetivo adicionar interatividade no site.
+exemplo:
+	console.log("bom dia");
+
+A ordem de precedência dos operadores aritméticos e lógicos é um conjunto de regras determinantes para a sequência na qual as operações devem ser executadas.
+
+da ordem de precedência dos operadores aritméticos:
+1. Parênteses: ( )
+2.Exponenciação: ** (ou outras operações de potência)
+3. Multiplicação: *, Divisão: /
+4.Adição: +, Subtração: -
+
+da ordem dos operadores lógicos:
+    1. NOT
+    2. AND
+    3. OR
+
+
+
+
